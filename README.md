@@ -15,7 +15,7 @@ pip install pytesseract
 ```
 
 
-#### In this repo I have tried to learn how to detect text in images. I have dont the following:
+#### In this repo I have tried to learn how to detect text in images. I have done the following:
 
 > Image to String
 
