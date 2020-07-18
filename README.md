@@ -17,10 +17,14 @@ pip install pytesseract
 
 #### In this repo I have tried to learn how to detect text in images. I have dont the following:
 
-1. Image to String
-2.Characters
-3.Words
-4.Only Digits
-5.Webcam + Screen Capture
+> Image to String
+
+> Characters
+
+> Words
+
+> Only Digits
+
+> Webcam + Screen Capture
 
 
