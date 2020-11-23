@@ -6,6 +6,9 @@ Optical Character Recognition(OCR) is the process of electronically extracting t
 ## pytesseract:
 It will recognize and read the text present in images. It can read all image types - png, jpeg, gif, tiff, bmp etc. It’s widely used to process everything from scanned documents.
 
+https://github.com/UB-Mannheim/tesseract/wiki
+
+
 ## Installation:
 
 ```python
